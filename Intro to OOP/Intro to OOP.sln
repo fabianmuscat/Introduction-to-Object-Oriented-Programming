@@ -3,13 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data Types and Variables", "Data Types and Variables\Data Types and Variables.csproj", "{E1241B6D-A359-4C80-A9ED-62C5D12B21E4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Data Types and Variables", "Data Types and Variables\1. Data Types and Variables.csproj", "{E1241B6D-A359-4C80-A9ED-62C5D12B21E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expressions and Type Conversions", "Expressions and Type Conversions\Expressions and Type Conversions.csproj", "{86A4B790-9D54-4037-9304-E77D71CB0721}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Expressions and Type Conversions", "Expressions and Type Conversions\2. Expressions and Type Conversions.csproj", "{86A4B790-9D54-4037-9304-E77D71CB0721}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Arithmetic", "Simple Arithmetic\Simple Arithmetic.csproj", "{8F99C5B9-6D42-4B45-99FB-D26DC1FED31E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Simple Arithmetic", "Simple Arithmetic\3. Simple Arithmetic.csproj", "{8F99C5B9-6D42-4B45-99FB-D26DC1FED31E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String and Enumeration", "String and Enumeration\String and Enumeration.csproj", "{5B6D110B-0682-4B3F-804B-E0F0E4741825}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. String and Enumeration", "String and Enumeration\4. String and Enumeration.csproj", "{5B6D110B-0682-4B3F-804B-E0F0E4741825}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Conditional Statements", "Conditional Statements\5. Conditional Statements.csproj", "{BA567E14-C0A8-4F05-9385-6A76B87C925B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Repetition Control Statements", "Repetition Control Statements\6. Repetition Control Statements.csproj", "{16DE0447-763C-4E0A-9A83-438D82EE179E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{5B6D110B-0682-4B3F-804B-E0F0E4741825}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B6D110B-0682-4B3F-804B-E0F0E4741825}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B6D110B-0682-4B3F-804B-E0F0E4741825}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA567E14-C0A8-4F05-9385-6A76B87C925B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA567E14-C0A8-4F05-9385-6A76B87C925B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA567E14-C0A8-4F05-9385-6A76B87C925B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA567E14-C0A8-4F05-9385-6A76B87C925B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16DE0447-763C-4E0A-9A83-438D82EE179E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16DE0447-763C-4E0A-9A83-438D82EE179E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16DE0447-763C-4E0A-9A83-438D82EE179E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16DE0447-763C-4E0A-9A83-438D82EE179E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
