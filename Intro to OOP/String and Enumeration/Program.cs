@@ -67,8 +67,8 @@ namespace String_and_Enumeration
             string sub = name2.Substring(name2.IndexOf('o'), name2.IndexOf('y') - 1);
             Console.WriteLine(sub);
 
-            // Trim() => Removes any leading and trailing whitespaces.
-            // Return Type: 
+            // Trim() => Removes any leading and/or trailing whitespaces.
+            // Return Type: void
             string word = "     Hello     ";
             string trim = word.Trim();
             Console.WriteLine(trim);
